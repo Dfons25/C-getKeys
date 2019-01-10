@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513794977 source:c:\users\utilizador\dropbox\c\getkeys\main.c
+	<stdio.h>
+	<conio.h>
+
